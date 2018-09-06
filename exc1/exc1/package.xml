@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>exc1</name>
+  <version>0.0.0</version>
+  <description>The exc1 metapackage for kthfsdv packages</description>
+
+  <maintainer email="singhakash1298@gmail.com">akash</maintainer>
+
+  <license>BSD</license>
+
+  <author email="singhakash1298@gmail.com">akash</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+
+  
+  <export>
+    <metapackage/>
+  </export>
+</package>
