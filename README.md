@@ -1,2 +1,4 @@
 # kthfsdv_training
-Attempted code outputs for the different scenarios
+
+- Introduction to subscribing and publishing topics
+- Introduction to advanced plotting tools
